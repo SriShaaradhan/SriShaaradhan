@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working for **Securonix**
 
-- 🌱 I’m currently learning **Go Lang and Rust**
-
 - 👯 I’m looking to collaborate on **Unified Defense SIEM Platform**
 
 - 🤝 I’m looking for help with **Red Teaming projects**
